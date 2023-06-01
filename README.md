@@ -10,7 +10,7 @@ This project consists of tasks related to a database of business data that requi
 - <b>SQL</b> 
 - <b>Azure Data Studio</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Task List: <br/>
