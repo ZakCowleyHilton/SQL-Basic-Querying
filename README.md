@@ -1,4 +1,4 @@
-<h1>SQL Querying</h1>
+<h1>Database Creation & SQL Data Filtering</h1>
 
 <h2>Description</h2>
 This project consists of tasks related to a database of employee data that requires basic querying in SQL.
