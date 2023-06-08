@@ -1,36 +1,30 @@
-<h1>SQL Basic Querying</h1>
+<h1>SQL Querying</h1>
 
 <h2>Description</h2>
-This project consists of tasks related to a database of business data that requires basic querying in SQL.
+This project consists of tasks related to a database of employee data that requires basic querying in SQL.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>SQL</b> 
-- <b>Azure Data Studio</b>
+- <b>PostgreSQL/b>
+- <b>Visual Studio Code/b>
 
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Task List: <br/>
-<img src="https://i.imgur.com/Q5nH8kH.png" height="80%" width="80%" alt="Step 1"/>
+<h3>Creating the Database</h3>
+<img src="https://i.imgur.com/DyS5agM.png" height="80%" width="80%" alt="Step 1"/>
 <br />
 <br />
-Task 1:  <br/>
-<img src="https://i.imgur.com/o0QiIss.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>The Database Visual</h3>
+<img src="https://i.imgur.com/NpRABYH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 2: <br/>
-<img src="https://i.imgur.com/fzlrDHU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>The Questions & Querying</h3>
+<img src="https://i.imgur.com/iVOyBdK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Task 3:  <br/>
-<img src="https://i.imgur.com/jvO8vnf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Taks 4:  <br/>
-<img src="https://i.imgur.com/mZlhasm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <!--
